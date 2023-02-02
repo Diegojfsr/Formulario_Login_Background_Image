@@ -9,7 +9,7 @@ Página de login com uma imagem de fundo e efeito desfocado.
 <h3>
   <em>
   Esse é o meu repositorio do projeto, 
-  <strong> Formulario Login Background Image </strong>
+  <strong> Formulario Login Background Image. </strong>
   </em>
 </h3>  
 
